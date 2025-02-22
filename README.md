@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sk2011s
-- 🌱 I’m currently learning math
+- 🌱 I’m currently learning Math
 
 <!---
 sk2011s/sk2011s is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
